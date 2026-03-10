@@ -1,5 +1,4 @@
 # Computer-Programming-in-C++_Lab-Reports
-# Computer Programming Lab – C++
 
 This repository contains C++ programs developed for the **Computer Programming Lab** course.  
 The purpose of this repository is to practice and demonstrate fundamental programming concepts using C++.
